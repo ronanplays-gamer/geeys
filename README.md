@@ -16,4 +16,4 @@ Currently, we have pictures available on GitHub and Discord. Stay tuned for more
 If you are interested in contributing to the development of Geeys, please follow our guidelines [here](contributing.md).
 
 ## Stay Updated
-To stay updated with the latest news and updates, follow us on [Discord](your-discord-link) and check out our [GitHub repository](https://github.com/ronanplays-gamer/geeys).
+To stay updated with the latest news and updates, follow us on [Discord](https://discord.gg/3wC2AsJgRb) and check out our [GitHub repository](https://github.com/ronanplays-gamer/geeys).
