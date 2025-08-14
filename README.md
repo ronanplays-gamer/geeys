@@ -1,6 +1,6 @@
 # Cubic
 
-Geeys is a VR multiplayer game designed for players aged 8 and up. 
+Cubic is a VR multiplayer game designed for players aged 8 and up. 
 
 ## Development Status
 This game is currently in development. 
