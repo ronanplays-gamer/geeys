@@ -1,4 +1,4 @@
-# Geeys
+# Cubic
 
 Geeys is a VR multiplayer game designed for players aged 8 and up. 
 
